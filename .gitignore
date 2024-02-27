@@ -1,0 +1,9 @@
+**/.ropeproject
+**/*.aux
+**/latex/*.fdb_latexmk
+**/latex/*.fls
+**/latex/*.synctex.gz
+**/latex/*.log
+**/latex/*.bbl
+**/latex/*.blg
+**/tbxmanager

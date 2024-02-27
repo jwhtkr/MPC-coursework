@@ -1,0 +1,3 @@
+# Matlab MPC Book Examples Setup
+
+In order to run the examples from the [MPC book](http://www.mpc.berkeley.edu/mpc-course-material) (Predictive Control for Linear and Hybrid Systems by Francesco Borrelli et. al) you first need to install the MPT3 library. This is done simply by running the install script `install_mpt3.m` and following the prompts. This should be all you need for most of the examples. For some, however, there are a few helper functions that need to be on the MATLAB path. These files are included in the folder `helper_files`. Thus, you can add the functions in this folder with the MATLAB command `addpath helper_files`. The example code can be found at [this site](http://www.mpc.berkeley.edu/mpc-course-material/bookexamples).
